@@ -1,0 +1,10 @@
+# zephyr specific dir
+.venv/
+.west/
+zephyr/
+bootloader/
+modules/
+tools/
+
+# blinky build dir
+blinky/build/
